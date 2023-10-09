@@ -42,3 +42,14 @@ Hacktoberfest takes place every year during the month of October.
 
 You can find more information and updates about Hacktoberfest on the [official Hacktoberfest website](https://hacktoberfest.digitalocean.com/). Additionally, you can follow the event's announcements on social media and participate in community discussions to stay informed.
 
+## Have a question?
+- Star this repository
+- Navigate to `index.html` file
+- Edit the file and insert the question as the above question and answer are
+-  Now click on Propose button.
+-  Create a new pull request.
+-  Wait for your Pull Request to be reviewed and merged!
+-  Enjoy and welcome to Hacktoberfest 2020 and Keep Contributing :)
+
+## 🔥 What will happen after my contribution?
+we have created a simple page to display all Questions and Answers, your Question should appear shortly after the pull request is merged with a answer to it. If you have participated in Hacktoberfest-2023 Nepal and created successful pull request in all the repositories mentioned below, you'll be eligible to win digital rewards.
