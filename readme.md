@@ -52,4 +52,4 @@ You can find more information and updates about Hacktoberfest on the [official H
 -  Enjoy and welcome to Hacktoberfest 2020 and Keep Contributing :)
 
 ## 🔥 What will happen after my contribution?
-we have created a simple page to display all Questions and Answers, your Question should appear shortly after the pull request is merged with a answer to it. If you have participated in Hacktoberfest-2023 Nepal and created successful pull request in all the repositories mentioned below, you'll be eligible to win digital rewards.
+we have created a simple page to display all Questions and Answers [FAQs](https://des-vu-technologies.github.io/hactoberfest_FAQs/), your Question should appear shortly after the pull request is merged with a answer to it. If you have participated in Hacktoberfest-2023 Nepal and created successful pull request in all the repositories mentioned below, you'll be eligible to win digital rewards.
