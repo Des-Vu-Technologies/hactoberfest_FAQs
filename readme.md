@@ -23,7 +23,8 @@ Yes, you can contribute to any open source project, as long as it meets the Hack
 
 ## Are there any rewards for participating in Hacktoberfest?
 
-Yes, Hacktoberfest participants can earn limited-edition Hacktoberfest swag, including T-shirts and stickers, depending on the number of valid contributions made during the event.
+Aside from the knowledge you’ll gain, (and the fun you’ll have) you can earn a digital reward kit courtesy of DigitalOcean and our sponsors and partners. You’ll receive your digital reward once you’ve completed four accepted pull/merge requests. Also, the first 50,000 participants to have their first PR/MR accepted will have a tree planted in their name through <a href="https://tree-nation.com/profile/hacktoberfest"> Tree Nation</a>.
+
 
 ## Is Hacktoberfest only for experienced developers?
 
